@@ -6,12 +6,12 @@
 }
 
 body {
-  body {
+  
   background-image: url('image1.jpg'); /* adjust path as needed */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-}
+
   font-family: 'Helvetica Neue', sans-serif;
   background-color: #f9f9f9;
   color: #333;
